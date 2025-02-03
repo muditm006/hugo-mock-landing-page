@@ -1,35 +1,21 @@
-# User Stories for IntegriMark
+# User Stories for My Intelligent Study Assistant (myISA)
 
-This is a backlog of user stories for IntegriMark, [an actual tool for watermarking and encrypting educational materials](https://github.com/integrimark). These user stories are provided as a toy example, and do not coincide with actual features of IntegriMark, except for the **Current Features**, which are both actually implemented in the tool and highlighted in this landing page.
+This is a backlog of user stories for myISA.
 
-## Current Features
+## ISA Features
 
-These are features that are currently implemented in IntegriMark, and which feature on the landing page.
-
-### Illustrated Features
-
-1. As an educator, I want to securely watermark PDF documents with unique, student-specific details, so I can trace the source of any leaked document back to the individual who shared it.
-2. As a student, I want to receive a customized URL for accessing encrypted files, so I can securely download educational materials shared by my educators.
-3. As an educator, I want to integrate IntegriMark with email systems for automated mailing of document links, streamlining the distribution process.
-
-### Other Features
-
-1. As a system administrator, I want to employ an invisible layer of randomly generated text over watermarked documents, preventing meaningful text from being copied and ensuring the document's integrity.
-2. As an educator, I want to automate the encryption, hosting, and distribution of watermarked documents on platforms like GitHub Pages, ensuring a secure, cost-effective, and labor-efficient solution.
-3. As a developer or contributor, I want to easily install IntegriMark using pip, ensuring a straightforward setup process for users.
-4. As a user, I want to have a clear guide on how to use IntegriMark, including commands for creating encrypted bundles and generating URLs, so I can utilize the tool effectively. (_Note: We combined this user story with the previous one._)
-
-## Potential Features Expansion
-
-1. As an educator, I want to integrate IntegriMark with learning management systems (LMS) like Canvas or Moodle, so I can automate the distribution of watermarked documents within my existing teaching workflows.
-2. As a student, I want to receive notifications when new materials are available for download, ensuring I don't miss out on important educational content.
-3. As an educator, I want to view a dashboard of document access logs, so I can monitor which students have accessed the distributed materials and when.
-4. As a system administrator, I want to implement IP tracking for document access, enabling an additional layer of security and traceability for shared documents.
-5. As a user, I want to have the option to watermark and encrypt other types of documents, such as Word or PowerPoint files, expanding the tool's utility beyond PDFs.
-6. As an educator, I want to set expiration dates for access to watermarked documents, ensuring materials cannot be accessed after a certain date.
-7. As a developer, I want to contribute to IntegriMark by developing plugins or extensions, enhancing its functionality and customization options for different use cases.
-8. As an educator, I want to have the ability to revoke access to specific documents, providing flexibility and control over distributed materials.
-9. As a user, I want to access a history of accessed documents, enabling easy retrieval of previously downloaded materials.
-10. As an educator, I want to generate unique passwords for each encrypted file, enhancing the security of distributed materials.
-11. As a user, I want to customize the encryption strength and watermarking details, allowing for personalized security settings based on my specific needs.
-12. As a system administrator, I want to deploy IntegriMark on private servers or cloud platforms other than GitHub, providing flexibility in hosting options.
+1. As a student, I want myISA to generate personalized study plans based on my learning goals and progress, so that I can stay on track with my studies.
+2. As an educator, I want to integrate myISA with learning management systems (LMS) like Canvas or Google Classroom, so that I can provide AI-powered study assistance to my students.
+3. As a student, I want myISA to quiz me on key topics using AI-generated questions, so that I can reinforce my understanding before exams.
+4. As an educator, I want to view analytics on student performance and study habits, so that I can provide targeted support where needed.
+5. As a student, I want myISA to summarize long readings and textbooks into concise notes, so that I can saving me time while studying.
+6. As an educator, I want to create and share custom quiz banks within myISA, so that I can ensure students have relevant practice materials.
+7. As a student, I want myISA to send me reminders for upcoming deadlines and exams, so that I can stay organized.
+8. As a developer, I want myISA to support plugins or extensions, so that I can add new features and integrations for specific use cases.
+9. As a student, I want myISA to support voice-based interactions, so that I can ask questions and get explanations hands-free.
+10. As an educator, I want to assign adaptive learning modules through myISA, so that I can ensure students get material suited to their individual needs.
+11. As a parent, I want to receive progress reports from myISA on my child's study habits, so that I can provide better support for my child.
+12. As a student, I want myISA to integrate with my digital notes and highlight key concepts automatically, so that I can optimize my review sessions.
+13. As a student, I want myISA to create flashcards, so that I can improve my memory on key terms.
+14. As a developer, I want myISA to have a open-source codebase, so that I can help improve the AI’s effectiveness in tailoring study experiences.
+15. As a teacher, I want myISA to allow me to customize which options are available for my students so that I can ensure they aren't too dependent on myISA.
