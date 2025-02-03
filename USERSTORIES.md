@@ -2,7 +2,7 @@
 
 This is a backlog of user stories for myISA.
 
-## ISA Features
+## myISA Features
 
 1. As a student, I want myISA to generate personalized study plans based on my learning goals and progress, so that I can stay on track with my studies.
 2. As an educator, I want to integrate myISA with learning management systems (LMS) like Canvas or Google Classroom, so that I can provide AI-powered study assistance to my students.
